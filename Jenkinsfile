@@ -60,5 +60,5 @@ pipeline {
             echo 'Pipeline completed'
         }
         success {
-            echo 'All 7 pipeline stages completed successfully
+            echo 'All 7 pipeline stages completed successfully'
 
