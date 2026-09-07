@@ -62,3 +62,9 @@ pipeline {
         success {
             echo 'All 7 pipeline stages completed successfully'
 
+        }
+        failure {
+            echo 'Pipeline failed - check the Console Output'
+        }
+    }
+}
